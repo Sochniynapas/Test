@@ -2,7 +2,7 @@
 {
     public class TestAPI
     {
-        //Start of project
+        public string API = "API";
 
     }
 }
