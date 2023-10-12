@@ -2,7 +2,7 @@
 {
     public class TestAPI
     {
-
+        public string API = "API23";
 
     }
 }
